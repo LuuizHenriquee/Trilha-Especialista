@@ -1,0 +1,11 @@
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\bin\Debug\netcoreapp2.1\Avaliação Final.deps.json
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\bin\Debug\netcoreapp2.1\Avaliação Final.runtimeconfig.json
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\bin\Debug\netcoreapp2.1\Avaliação Final.runtimeconfig.dev.json
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\bin\Debug\netcoreapp2.1\Avaliação Final.dll
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\bin\Debug\netcoreapp2.1\Avaliação Final.pdb
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\obj\Debug\netcoreapp2.1\Avaliação Final.csprojAssemblyReference.cache
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\obj\Debug\netcoreapp2.1\Avaliação Final.csproj.CoreCompileInputs.cache
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\obj\Debug\netcoreapp2.1\Avaliação Final.AssemblyInfoInputs.cache
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\obj\Debug\netcoreapp2.1\Avaliação Final.AssemblyInfo.cs
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\obj\Debug\netcoreapp2.1\Avaliação Final.dll
+C:\Users\filhhen\Documents\Trilha Especialista\Lógica de Programação\AvaliacaoDiagnostica\Avaliação Final\obj\Debug\netcoreapp2.1\Avaliação Final.pdb
